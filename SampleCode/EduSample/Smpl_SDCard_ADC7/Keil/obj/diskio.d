@@ -1,0 +1,15 @@
+.\obj\diskio.o: ..\ff8\src\diskio.c
+.\obj\diskio.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\diskio.o: ..\ff8\src\diskio.h
+.\obj\diskio.o: ..\ff8\src\integer.h
+.\obj\diskio.o: ..\ff8\src\ff.h
+.\obj\diskio.o: ..\ff8\src\ffconf.h
+.\obj\diskio.o: ..\..\..\..\Library\NUC1xx-LB_002\Include\SDCard.h
+.\obj\diskio.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\obj\diskio.o: ..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\obj\diskio.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\diskio.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\obj\diskio.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\obj\diskio.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h
+.\obj\diskio.o: F:\Keil\ARM\ARMCC\Bin\..\include\string.h
+.\obj\diskio.o: ..\..\..\..\Library\NUC1xx\Include\UART.h

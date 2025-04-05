@@ -1,0 +1,14 @@
+.\obj\tft.o: ..\..\..\..\Library\NUC1xx-LB_002\Source\TFT.c
+.\obj\tft.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\tft.o: F:\Keil\ARM\ARMCC\Bin\..\include\string.h
+.\obj\tft.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\obj\tft.o: ..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\obj\tft.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\tft.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\obj\tft.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\obj\tft.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h
+.\obj\tft.o: ..\..\..\..\Library\NUC1xx\Include\SYS.h
+.\obj\tft.o: ..\..\..\..\Library\NUC1xx\Include\SPI.h
+.\obj\tft.o: ..\..\..\..\Library\NUC1xx\Include\GPIO.h
+.\obj\tft.o: ..\..\..\..\Library\NUC1xx-LB_002\Include\TFT.h
+.\obj\tft.o: ..\..\..\..\Library\NUC1xx-LB_002\Include\TFT8x16.h

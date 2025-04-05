@@ -1,0 +1,9 @@
+.\obj\sys.o: ..\..\..\..\Library\NUC1xx\Source\SYS.c
+.\obj\sys.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\sys.o: ..\..\..\..\Library\NUC1xx\Include\SYS.h
+.\obj\sys.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\obj\sys.o: ..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\obj\sys.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\sys.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\obj\sys.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\obj\sys.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h

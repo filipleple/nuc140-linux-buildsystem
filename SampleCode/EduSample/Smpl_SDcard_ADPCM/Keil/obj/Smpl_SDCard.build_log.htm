@@ -1,0 +1,64 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.24.2.0
+Copyright (C) 2017 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: tuan vuong, cjs, LIC=GMZ74-F0J1E-8FXIE-5RMEQ-LP21E-P2ZHM
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.24.1
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 5 (build 528)
+Assembler:       Armasm.exe V5.06 update 5 (build 528)
+Linker/Locator:  ArmLink.exe V5.06 update 5 (build 528)
+Library Manager: ArmAr.exe V5.06 update 5 (build 528)
+Hex Converter:   FromElf.exe V5.06 update 5 (build 528)
+CPU DLL:         SARMCM3.DLL V5.24.1
+Dialog DLL:      DARMCM1.DLL V1.18.0.0
+Target DLL:      Nu_Link.dll V2.02
+Dialog DLL:      TARMCM1.DLL V1.13.0.0
+ 
+<h2>Project:</h2>
+C:\Users\Vuong Duc Tuan\Documents\NUC140BSP_EDU\SampleCode\EduSample\Smpl_SDcard_ADPCM\Keil\Smpl_SDCard.uvproj
+Project File Date:  11/28/2017
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 5 (build 528)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'Smpl_SDCard'
+creating preprocessor file for core_cm0.c...
+creating preprocessor file for system_NUC1xx.c...
+creating preprocessor file for main.c...
+creating preprocessor file for diskio.c...
+creating preprocessor file for ff.c...
+creating preprocessor file for LCD.c...
+compiling main.c...
+..\main.c(439): warning:  #177-D: variable "p1"  was declared but never referenced
+  	uint32_t p1, s1, s2;
+..\main.c(439): warning:  #177-D: variable "s1"  was declared but never referenced
+  	uint32_t p1, s1, s2;
+..\main.c(439): warning:  #177-D: variable "s2"  was declared but never referenced
+  	uint32_t p1, s1, s2;
+..\main.c(440): warning:  #177-D: variable "fs"  was declared but never referenced
+  	FATFS *fs;				/* Pointer to file system object */
+..\main.c(442): warning:  #177-D: variable "Finfo"  was declared but never referenced
+  	FILINFO Finfo;
+..\main.c: 5 warnings, 0 errors
+creating preprocessor file for SDCard.c...
+creating preprocessor file for retarget.c...
+creating preprocessor file for GPIO.c...
+creating preprocessor file for SYS.c...
+creating preprocessor file for SPI.c...
+creating preprocessor file for I2C.c...
+creating preprocessor file for I2S.c...
+creating preprocessor file for UART.c...
+linking...
+Program Size: Code=22520 RO-data=1396 RW-data=2384 ZI-data=7720  
+After Build - User command #1: fromelf --bin ".\obj\Smpl_SDCard.axf" --output ".\obj\Smpl_SDCard.bin"
+After Build - User command #2: fromelf --text -c ".\obj\Smpl_SDCard.axf" --output ".\obj\Smpl_SDCard.txt"
+".\obj\Smpl_SDCard.axf" - 0 Error(s), 5 Warning(s).
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>

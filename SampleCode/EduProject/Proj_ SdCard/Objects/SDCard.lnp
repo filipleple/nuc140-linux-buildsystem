@@ -1,0 +1,17 @@
+--cpu Cortex-M0
+".\objects\core_cm0.o"
+".\objects\system_nuc1xx.o"
+".\objects\startup_nuc1xx.o"
+".\objects\gpio.o"
+".\objects\spi.o"
+".\objects\sys.o"
+".\objects\uart.o"
+".\objects\retarget.o"
+".\objects\sdcard.o"
+".\objects\ff.o"
+".\objects\diskio.o"
+".\objects\main.o"
+".\objects\retarget_io.o"
+--library_type=microlib --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\SDCard.map" -o .\Objects\SDCard.axf

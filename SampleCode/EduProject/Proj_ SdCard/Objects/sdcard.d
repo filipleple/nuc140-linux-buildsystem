@@ -1,0 +1,12 @@
+.\objects\sdcard.o: ..\..\..\Library\NUC1xx-LB_002\Source\SDCard.c
+.\objects\sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sdcard.o: ..\..\..\Library\NUC1xx-LB_002\Include\SDCard.h
+.\objects\sdcard.o: ..\..\..\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\objects\sdcard.o: ..\..\..\Library\CMSIS\Include\core_cm0.h
+.\objects\sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sdcard.o: ..\..\..\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\objects\sdcard.o: ..\..\..\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\objects\sdcard.o: ..\..\..\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h
+.\objects\sdcard.o: ..\..\..\Library\NUC1xx\Include\GPIO.h
+.\objects\sdcard.o: ..\..\..\Library\NUC1xx\Include\SYS.h
+.\objects\sdcard.o: ..\..\..\Library\NUC1xx\Include\SPI.h

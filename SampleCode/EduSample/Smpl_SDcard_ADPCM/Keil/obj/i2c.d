@@ -1,0 +1,10 @@
+.\obj\i2c.o: ..\..\..\..\Library\NUC1xx\Source\I2C.c
+.\obj\i2c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\i2c.o: ..\..\..\..\Library\NUC1xx\Include\I2C.h
+.\obj\i2c.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\obj\i2c.o: ..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\obj\i2c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\i2c.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\obj\i2c.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\obj\i2c.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h
+.\obj\i2c.o: ..\I2C_setup.h

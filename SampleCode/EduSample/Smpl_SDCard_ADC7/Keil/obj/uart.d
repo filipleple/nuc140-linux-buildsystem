@@ -1,0 +1,10 @@
+.\obj\uart.o: ..\..\..\..\Library\NUC1xx\Source\UART.c
+.\obj\uart.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\uart.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\obj\uart.o: ..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\obj\uart.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\uart.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\obj\uart.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\obj\uart.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h
+.\obj\uart.o: ..\..\..\..\Library\NUC1xx\Include\UART.h
+.\obj\uart.o: ..\..\..\..\Library\NUC1xx\Include\SYS.h

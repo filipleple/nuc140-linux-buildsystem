@@ -1,0 +1,11 @@
+.\obj\seven_segment.o: ..\..\..\..\Library\NUC1xx-LB_002\Source\Seven_Segment.c
+.\obj\seven_segment.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\seven_segment.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\obj\seven_segment.o: ..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\obj\seven_segment.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\seven_segment.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\obj\seven_segment.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\obj\seven_segment.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h
+.\obj\seven_segment.o: ..\..\..\..\Library\NUC1xx\Include\GPIO.h
+.\obj\seven_segment.o: ..\..\..\..\Library\NUC1xx\Include\SYS.h
+.\obj\seven_segment.o: ..\..\..\..\Library\NUC1xx-LB_002\Include\Seven_Segment.h
