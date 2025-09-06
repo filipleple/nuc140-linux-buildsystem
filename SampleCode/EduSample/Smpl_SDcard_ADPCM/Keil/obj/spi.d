@@ -1,9 +1,0 @@
-.\obj\spi.o: ..\..\..\..\Library\NUC1xx\Source\SPI.c
-.\obj\spi.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
-.\obj\spi.o: ..\..\..\..\Library\CMSIS\Include\core_cm0.h
-.\obj\spi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\obj\spi.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
-.\obj\spi.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
-.\obj\spi.o: ..\..\..\..\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h
-.\obj\spi.o: ..\..\..\..\Library\NUC1xx\Include\SPI.h
-.\obj\spi.o: ..\..\..\..\Library\NUC1xx\Include\SYS.h
